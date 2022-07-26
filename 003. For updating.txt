@@ -1,0 +1,6 @@
+after push wait for 10-15 minutes
+if does not updating.
+
+Command in VS code powershell
+
+npm run deploy
