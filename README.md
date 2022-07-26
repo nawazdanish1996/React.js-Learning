@@ -6,7 +6,9 @@ React.js Notes and Projects
 
 ##Create new React App (React.js).
 
-**
+** Commands below
 npx create-react-app my-app
+
 cd my-app
+
 npm start

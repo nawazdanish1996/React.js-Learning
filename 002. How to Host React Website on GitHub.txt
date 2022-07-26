@@ -1,0 +1,35 @@
+##Host React Js website live on the internet using github
+
+Step 1:
+/* Create a repository */
+
+Step 2:
+/* Push your code from PC to Repository(GitHub) */
+
+Step 3:
+// Command in vs code
+/* install gh-page npm package */
+npm install --save gh-pages
+
+Step 4:
+/* Edit the package.json file and added the below lines */
+
+//After name key-pair value
+{
+“homepage” : “https://<username>.github.io/<repo-name>
+}
+
+//Inside script object
+"scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+},
+
+Step 5:
+// Command in vs code to deploy your website to GitHub and create a link
+
+npm run deploy
+
+
+Successfully website is live now
+for more help: https://whataboutcoding.com/host-react-js-website-live-on-the-internet-using-github/
