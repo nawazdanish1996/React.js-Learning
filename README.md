@@ -28,32 +28,3 @@ npm -v
 
 important link: https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
 
-
-
-<b>1Q: What is JSON in React.Js?</b>
-
-Ans: RJV is a React component for displaying and editing javascript arrays and JSON objects. This component provides a responsive interface for displaying arrays or JSON in a web browser.
-
-<b>2Q: What is a React fragment?</b>
-
-Ans: React Fragments allow you to wrap or group multiple elements without adding an extra node to the DOM. This can be useful when rendering multiple child elements/components in a single parent component.
-
-<b>3Q:</b>
-
-<b>4Q:</b>
-
-<b>5Q:</b>
-
-<b>6Q:</b>
-
-<b>7Q:</b>
-
-<b>8Q:</b>
-
-<b>9Q:</b>
-
-<b>10Q:</b>
-
-<b>11Q:</b>
-
-<b>12Q:</b>
