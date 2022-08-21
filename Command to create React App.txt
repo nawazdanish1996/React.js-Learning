@@ -1,0 +1,21 @@
+npx create-react-app my-app/name-app/(name_you_want_your_project_called)
+cd my-app/name-app/(project_Name)
+npm start
+
+
+or
+
+npx create-react-app my-app/name-app/(name_you_want_your_project_called)
+cd my-app/name-app/(project_Name)
+yarn start
+
+
+To Use Peremanently
+npm install -g create-react-app nawaz-app
+cd nawaz-app
+npm start
+
+npm install -g create-react-app^C
+
+
+npm init react-app nawaz-app

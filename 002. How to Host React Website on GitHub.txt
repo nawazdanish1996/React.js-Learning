@@ -1,4 +1,4 @@
-##Host React Js website live on the internet using github
+##Host React.Js website live on the internet using github
 
 Step 1:
 /* Create a repository */
