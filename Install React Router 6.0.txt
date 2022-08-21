@@ -1,0 +1,4 @@
+React Router Installation command:
+npm i react-router-dom
+
+website link: https://reactrouter.com/docs/en/v6/getting-started/installation

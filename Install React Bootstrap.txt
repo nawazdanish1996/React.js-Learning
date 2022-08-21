@@ -1,0 +1,4 @@
+React Bootstrap installation command:
+npm install react-bootstrap bootstrap
+
+Website link: https://react-bootstrap.github.io/

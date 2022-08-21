@@ -1,5 +1,4 @@
-npx create-react-app my-app/name-app/(name_you_want_your_project_called)
-cd my-app/name-app/(project_Name)
+npx create-react-app my-app
 npm start
 
 
