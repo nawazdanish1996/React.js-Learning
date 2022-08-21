@@ -1,4 +1,7 @@
 React Bootstrap installation command:
 npm install react-bootstrap bootstrap
 
+import this link in index.js:
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 Website link: https://react-bootstrap.github.io/
